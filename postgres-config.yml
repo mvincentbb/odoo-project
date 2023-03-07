@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata :
-  name: postgres-condig
+  name: postgres-config
   labels:
     app: postgres
 data:
